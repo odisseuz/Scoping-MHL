@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+env/
+venv/
+anaconda3/
+/output
+*.html
+/pdfs
+/fulltext
+*.pdf
