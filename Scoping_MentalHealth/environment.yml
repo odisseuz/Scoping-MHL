@@ -17,8 +17,11 @@ dependencies:
   - r-devtools  
   - r-rmarkdown 
   - r-shiny     
+  
+  # Havia me esquecido :)
+  - r-bibliometrix
 
   # Bibliotecas de Texto 
   - r-tm        
   - r-snowballc 
-  - r-lda       
+  - r-lda
